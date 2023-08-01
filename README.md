@@ -1,7 +1,9 @@
 <h1> Sistema de Cadastro de Jogos </h1>
 
 > Descrição do Projeto
-> funcionalidades
+
+> Funcionalidades
+
 > Como usuários podem utilizá-lo
 > Autores
 
